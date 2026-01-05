@@ -1,0 +1,8 @@
+# Ignore a Folder
+.vscode/*
+
+# Ignore a Specific File 
+secrets.txt
+
+# Ignore a Type of File 
+*.log
